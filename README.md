@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**MarvinKloe47/MarvinKloe47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Marvin 👋
 
-Here are some ideas to get you started:
+### Backend Developer | Python • Django • REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer from Germany with a passion for building reliable, scalable and well-structured web applications.
+
+## 🚀 About Me
+
+- 💻 Focused on backend development and RESTful APIs
+- 🏗️ Interested in clean architecture and maintainable code
+- 🗄️ Working with relational databases and PostgreSQL
+- 🐳 Using Docker, Git and automated testing
+- 🌱 Continuously improving my full-stack development skills
+
+## 🛠️ Tech Stack
+
+**Backend:** Python, Django, Django REST Framework  
+**Frontend:** JavaScript, TypeScript, Angular  
+**Database:** PostgreSQL  
+**Tools:** Docker, Git, GitHub, Linux
+
+## 📂 Featured Projects
+
+### Kanmind
+Task management application.
+
+### Coderr
+Service marketplace application.
+
+### Quizly
+Interactive quiz application.
+
+### Videoflix
+Video streaming backend with authentication and REST APIs.
+
+## 🎯 Development Focus
+
+- REST API design
+- Authentication and authorization
+- Database modeling
+- Automated testing
+- Deployment and DevOps
+
+---
+Thanks for visiting my profile!
+  
