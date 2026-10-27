@@ -81,6 +81,10 @@ Backend for a service marketplace connecting customers and service providers.
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/MarvinKloe47/Coderr)
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://marvincooper7.eu.pythonanywhere.com/)
+
+*Public portfolio demo with sample accounts and test data; no real services or payments.*
+
 ### 🧠 Quizly — Quiz Application
 
 Backend project focused on quiz functionality and structured API development.
